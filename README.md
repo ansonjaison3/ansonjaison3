@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9xbsgHL/giphy.gif" width="60px" alt="Glitch effect">
   <br>
   <h1>
-    <img src="https://media.giphy.com/media/jJxaU6N5u2L16/giphy.gif" width="35px" alt="Waving hand">
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35px" alt="Waving hand">
     Hello there, stranger!
   </h1>
   
